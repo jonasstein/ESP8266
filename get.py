@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-"""Kleines Skript um die benutzung der SDS011 Bibliothek
+"""Kleines Skript um die Benutzung der SDS011 Bibliothek
 zu demonstrieren."""
 
 __author__ = "Siegurt Skoda"
